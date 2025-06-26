@@ -1,2 +1,2 @@
-# Siddappa-Assignment
-All four program are solved in JAVA language.
+# TANDEMLOOP-Assignment
+All four programs are solved in JAVA language.
